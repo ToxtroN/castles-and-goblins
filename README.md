@@ -13,6 +13,13 @@ A cartoon tower defense game made with **Godot 4.3** — towers, heroes, 16 leve
 - русский и английский язык (определяется автоматически)
 - интеграция с SDK Яндекс Игр
 
+## Играть в браузере
+Готовая web-сборка лежит в папке `docs/` и открывается через GitHub Pages
+(Settings → Pages → Deploy from a branch → `main` / `/docs`):
+**https://toxtron.github.io/castles-and-goblins/**
+
+Чтобы обновить сайт, пересоберите игру и замените содержимое `docs/` файлами из `build/web/`.
+
 ## Запуск
 1. Установите [Godot 4.3](https://godotengine.org/download) (стандартная версия, без .NET).
 2. Откройте `project.godot` в редакторе и нажмите F5.
