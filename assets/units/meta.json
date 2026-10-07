@@ -1,0 +1,30 @@
+{
+ "knight": {
+  "walk": 6,
+  "idle": 1,
+  "attack": 6,
+  "death": 4
+ },
+ "gold": {
+  "walk": 6,
+  "idle": 1,
+  "attack": 6,
+  "death": 4
+ },
+ "archer": {
+  "walk": 4,
+  "idle": 1,
+  "attack": 5,
+  "proj": 1
+ },
+ "artillery": {
+  "walk": 5,
+  "idle": 1,
+  "attack": 4
+ },
+ "cavalry": {
+  "walk": 7,
+  "attack": 5,
+  "death": 2
+ }
+}

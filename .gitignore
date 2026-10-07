@@ -1,0 +1,9 @@
+# Godot
+.godot/
+*.import.tmp
+# сборки
+build/
+*.zip
+# ОС
+.DS_Store
+Thumbs.db

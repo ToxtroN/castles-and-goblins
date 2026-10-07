@@ -1,0 +1,35 @@
+{
+ "grunt": {
+  "walk": 4
+ },
+ "spearman": {
+  "walk": 2,
+  "attack": 2
+ },
+ "mage": {
+  "walk": 4,
+  "attack": 2,
+  "proj": 1,
+  "splash": 1
+ },
+ "rock": {
+  "walk": 4,
+  "attack": 4,
+  "proj": 1,
+  "death": 7
+ },
+ "cart": {
+  "walk": 2,
+  "attack": 3,
+  "proj": 1
+ },
+ "crow": {
+  "walk": 4,
+  "attack": 2,
+  "proj": 1
+ },
+ "brute": {
+  "walk": 8,
+  "attack": 7
+ }
+}
